@@ -18,7 +18,7 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 - **Register**: New users can create accounts to join the Silence community.
 - **Password Reset**: Offers the functionality to reset passwords in case users forget them.
 
-![enter image description here](https://github.com/akhlashashmi/silenceapp.github.io/blob/master/authentication_screens.jpg)
+![enter image description here](screenshots/authentication_screens.jpg)
   
 ### Contact Management
 
