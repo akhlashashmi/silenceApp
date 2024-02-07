@@ -25,26 +25,28 @@ Silence is a real-time chat application developed in Flutter, offering a range o
  - **Load Contacts**: The app loads contacts that are using Silence, facilitating communication with known contacts.
  - **Universal Search**: Users can search for and initiate chats with people not in their contacts using keywords such as phone number, email, or name.
 
-![enter image description here](https://github.com/akhlashashmi/silenceapp.github.io/blob/master/contacts_management.jpg) 
+![enter image description here](screenshots/contacts_management.jpg) 
 
 ### Messaging Features
 
-- **Message Forwarding**: Users can forward messages to other contacts or groups.
+- **Messages Managements**: Enables users to edit, forwared, download(video/audio/image), messages.
 - **Advanced Filtering**: Enables users to filter messages based on categories such as images, videos, text, or audio.
+
+![enter image description here](screenshots/chatroom_screen.jpg)
 
 ### Appearance Customization
 
 - **Chat Wallpapers**: Users can customize chat backgrounds by selecting wallpapers.
 - **Theme Modes**: Offers light and dark modes for personalized visual preferences.
 
-![enter image description here](https://github.com/akhlashashmi/silenceapp.github.io/blob/master/walpapers_screen.jpg)
+![enter image description here](screenshots/walpapers_screen.jpg)
 
 ### Timeline Interaction
 - **Post a thought/Update**: Users can share their thoughts to their contacts' only contacts can see what you share.
 - **Manage thoughts**: silence provided multiple options to modify/delete any of their shared thought.
 - **Reactions**: Users can react to other users' timeline posts privately within the chatroom.
 
-![enter image description here](https://github.com/akhlashashmi/silenceapp.github.io/blob/master/timeline_screens.jpg)
+![enter image description here](screenshots/timeline_screens.jpg)
 
 ## Security Features
 
@@ -52,7 +54,7 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 - **Visibility Control**: Users can choose whether they want to appear in the universal search bar or remain hidden.
 - **End-to-End Encryption**: Planned feature to enhance security and privacy of user communications.
 
-![enter image description here](https://github.com/akhlashashmi/silenceapp.github.io/blob/master/control_credentials.jpg)
+![enter image description here](screenshots/control_credentials.jpg)
 
 ## Progress
 
@@ -64,7 +66,7 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 
 
 ## Screenshots
-
+![enter image description here](screenshots/silence_full_overview.jpg)
 
 ## Conclusion
 
