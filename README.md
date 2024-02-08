@@ -1,5 +1,7 @@
-# silence - A Real Time Chat App Overview 
+<!-- Replace the URL with the link to your app -->
 [![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
+
+# silence - A Real Time Chat App Overview 
 
 Silence is a real-time chat application developed in Flutter, offering a range of features for seamless communication among users. The app focuses on privacy, security, and user control, providing a platform where users can engage in one-to-one chats, group messaging, share updates via timeline, and create sub-groups known as Circles.
 
