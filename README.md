@@ -1,4 +1,5 @@
-# silence - A Real Time Chat App Overview [![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
+# silence - A Real Time Chat App Overview 
+[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
 
 Silence is a real-time chat application developed in Flutter, offering a range of features for seamless communication among users. The app focuses on privacy, security, and user control, providing a platform where users can engage in one-to-one chats, group messaging, share updates via timeline, and create sub-groups known as Circles.
 
@@ -38,7 +39,7 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 - **Chat Wallpapers**: Users can customize chat backgrounds by selecting wallpapers.
 - **Theme Modes**: Offers light and dark modes for personalized visual preferences.
 
-![wallpapers_screen](screenshots/wallpapers_screen.jpg)
+![walpapers_screen](screenshots/walpapers_screen.jpg)
 
 ### Timeline Interaction
 - **Post a thought/Update**: Users can share their thoughts with their contacts; only contacts can see what you share.
@@ -56,7 +57,6 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 ![control_credentials](screenshots/control_credentials.jpg)
 
 ## Progress
-
  - [x] One-to-One Chats
  - [x] Group Messaging
  - [x] Timeline Updates
@@ -66,6 +66,9 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 
 ## Screenshots
 ![silence_full_overview](screenshots/silence_full_overview.jpg)
+
+## Download and test the pre-release
+[![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
 
 ## Conclusion
 
