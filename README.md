@@ -1,4 +1,4 @@
-# silence - A Real Time Chat App Overview
+# silence - A Real Time Chat App Overview [![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
 
 Silence is a real-time chat application developed in Flutter, offering a range of features for seamless communication among users. The app focuses on privacy, security, and user control, providing a platform where users can engage in one-to-one chats, group messaging, share updates via timeline, and create sub-groups known as Circles.
 
@@ -27,8 +27,8 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 
 ### Messaging Features
 
-- **Messages Managements**: Enables users to edit, forwared, download(video/audio/image), messages.
-- **Caching Media/Messages**: Caching is implemented to minimize the network requests and make over all app experience faster.
+- **Messages Managements**: Enables users to edit, forward, download (video/audio/image), messages.
+- **Caching Media/Messages**: Caching is implemented to minimize the network requests and make overall app experience faster.
 - **Advanced Filtering**: Enables users to filter messages based on categories such as images, videos, text, or audio.
 
 ![chatroom_screen](screenshots/chatroom_screen.jpg)
@@ -38,11 +38,11 @@ Silence is a real-time chat application developed in Flutter, offering a range o
 - **Chat Wallpapers**: Users can customize chat backgrounds by selecting wallpapers.
 - **Theme Modes**: Offers light and dark modes for personalized visual preferences.
 
-![walpapers_screen](screenshots/walpapers_screen.jpg)
+![wallpapers_screen](screenshots/wallpapers_screen.jpg)
 
 ### Timeline Interaction
-- **Post a thought/Update**: Users can share their thoughts to their contacts' only contacts can see what you share.
-- **Manage thoughts**: silence provided multiple options to manage thoughts/updates i.e. **Edit**, **Delete**, **Download** media in shared thought.
+- **Post a thought/Update**: Users can share their thoughts with their contacts; only contacts can see what you share.
+- **Manage thoughts**: Silence provides multiple options to manage thoughts/updates i.e. **Edit**, **Delete**, **Download** media in shared thoughts.
 - **Reactions**: Users can react to other users' timeline posts privately within the chatroom.
 
 ![timeline_screens](screenshots/timeline_screens.jpg)
@@ -64,7 +64,6 @@ Silence is a real-time chat application developed in Flutter, offering a range o
  - [ ] Implement Circles functionality
  - [ ] End-to-End Encryption
 
-
 ## Screenshots
 ![silence_full_overview](screenshots/silence_full_overview.jpg)
 
@@ -74,5 +73,5 @@ Silence is an evolving real-time chat application designed to prioritize **User 
 
 |Developers | UI/UX Designers | 
 |--|--|
-| Akhlas Ahmed (Main Lead) |Basharat Ahmed (Main Lead) |
+| Akhlas Ahmed (Main Lead) | Basharat Ahmed (Main Lead) |
 | Basharat Ahmed (Follow up) | Akhlas Ahmed (Follow up) |
