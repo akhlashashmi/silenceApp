@@ -67,9 +67,6 @@ Silence is a real-time chat application developed in Flutter, offering a range o
  - [ ] Audio/Video Calls
  - [ ] End-to-End Encryption
 
-## Screenshots
-![silence_full_overview](screenshots/silence_full_overview.jpg)
-
 ## Download and test the pre-release
 [![Download](https://img.shields.io/badge/Download-App-green)](https://github.com/akhlashashmi/silenceApp/releases/tag/test-release)
 
