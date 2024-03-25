@@ -62,6 +62,7 @@ Silence is a real-time chat application developed in Flutter, offering a range o
  - [x] Group Messaging
  - [x] Timeline Updates
  - [x] Caching Mechanism
+ - [x] Rich Text Support
  - [ ] Implement Circles functionality
  - [ ] Audio/Video Calls
  - [ ] End-to-End Encryption
